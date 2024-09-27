@@ -1,4 +1,4 @@
-# Jiaxuu's Cryptography Write-ups
+# Ji4xuu's Cryptography Write-ups
 
 Welcome to **Jiaxuu's Cryptography Write-ups**! This repository hosts write-ups for cryptography challenges from various Capture The Flag (CTF) competitions. If you're interested in cryptography, security, and problem-solving, you're in the right place!
 
